@@ -16,8 +16,3 @@ print("The increase in stock value is:", daStockvalinc)
 
 daPercgain = ((daStockvalinc / daTotShareval) * 100)
 print("The percent increase in stock value is:", daPercgain)
-
-# Total stock share increase
-
-#print("Original total share value", daTotShareval)
-#print("Total stock share increase", daStockvalinc)
